@@ -11,6 +11,7 @@
     <style name="buttonstyle">
         <item name="android:background">#0eb5b5</item>
         <item name="android:padding">10dp</item>
+        <item name="android:textColor">#fff</item>
         <item name="android:textSize">18dp</item>
         <item name="android:layout_marginBottom">20dp</item>
     </style>
